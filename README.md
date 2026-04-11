@@ -48,10 +48,10 @@ User Query → Retriever → Context → LLM → Answer
 * Microsoft Certified: Azure AI Engineer Associate (AI-102)
 * Microsoft Certified: Azure Data Scientist Associate (DP-100)
 * Microsoft Certified: Azure AI Fundamentals (AI-900)
-* IBM Certified Machine Learning
 * UBS Certified Data Engineer Series (Data Engineer, Silver, and Gold)
 * UBS Certified Data Scientist
 * UBS Certified Data Analyst
+* IBM Certified Machine Learning
 
 ---
 
