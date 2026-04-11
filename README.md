@@ -63,6 +63,11 @@ User Query → Retriever → Context → LLM → Answer
 
 ---
 
+## Education
+
+Currently pursuing a Ph.D. in Management (Business Analytics & AI/ML) at SRM University, India (expected 2029), focused on applying AI and machine learning to real-world business and banking challenges.
+
+---
 ## Connect
 
 LinkedIn: [Leela Krishna.T](https://www.linkedin.com/in/leelakrishnas/)
