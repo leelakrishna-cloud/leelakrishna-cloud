@@ -1,6 +1,6 @@
 # Leela Krishna.T
 
-Director | Data & AI Leader | Generative AI & Agentic AI/ML | RAG | LLMs | Digital Transformation
+Director | Data & AI/ML Leader | Generative AI & Agentic AI | RAG | LLMs | Digital Transformation
 
 ---
 
