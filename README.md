@@ -71,3 +71,4 @@ Currently pursuing a Ph.D. in Management (Business Analytics & AI/ML) at SRM Uni
 ## Connect
 
 LinkedIn: [Leela Krishna.T](https://www.linkedin.com/in/leelakrishnas/)
+Email: leelakrishnan@yahoo.com
