@@ -1,6 +1,6 @@
 # Leela Krishna.T
 
-Director | Data & AI Leader | Generative AI & Agentic AI | RAG | LLMs | Digital Transformation
+Director | Data & AI Leader | Generative AI & Agentic AI/ML | RAG | LLMs | Digital Transformation
 
 ---
 
@@ -65,4 +65,4 @@ User Query → Retriever → Context → LLM → Answer
 
 ## Connect
 
-LinkedIn: [Leela Krishna](https://www.linkedin.com/in/leelakrishnas/)
+LinkedIn: [Leela Krishna.T](https://www.linkedin.com/in/leelakrishnas/)
