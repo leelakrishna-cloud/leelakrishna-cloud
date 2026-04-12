@@ -2,7 +2,7 @@
 
 > 💡 Building enterprise-grade Agentic AI systems focused on accuracy, validation, and explainability.
 
-Director | Data, AI & ML Leader | Agentic AI, Generative AI & RAG | LLM Systems | Enterprise AI Transformation
+Director | Data, AI & ML Leader | Agentic AI & RAG | LLM Systems | Enterprise AI Transformation
 
 ---
 
@@ -10,8 +10,9 @@ Director | Data, AI & ML Leader | Agentic AI, Generative AI & RAG | LLM Systems 
 
 * Director-level technology leader with 20+ years of experience in Data, AI, and Banking  
 * Expertise in regulatory data platforms, compliance, and data engineering  
-* Currently focused on Generative AI, Agentic AI, and RAG-based enterprise solutions  
+* Currently focused on Agentic AI and RAG-based enterprise solutions  
 * Passionate about building scalable, explainable, and enterprise-grade AI systems  
+* Focused on building reliable and explainable AI systems for enterprise and regulatory environments  
 
 ---
 
@@ -44,6 +45,8 @@ An enterprise-grade AI assistant designed for compliance use cases using Retriev
 **Impact:**
 - Designed to reduce hallucination risk and improve trust in AI-driven compliance workflows  
 - Ensures transparency by distinguishing between document-grounded and general knowledge responses  
+
+**Tech Stack:** Python, Streamlit, LangChain, ChromaDB, OpenAI  
 
 👉 GitHub: https://github.com/leelakrishna-cloud/agentic-ai-compliance-assistant
 
@@ -80,17 +83,23 @@ This ensures reliable, explainable, and enterprise-ready AI systems.
 
 User Query → Retrieval → Context Evaluation → Response Generation → Validation / Fallback → Confidence → Final Output
 
+> RAG retrieves information, Agentic AI ensures reliability and trust.
+
 ---
 
 ## Certifications
 
 * Microsoft Certified: Azure AI Engineer Associate (AI-102)  
 * Microsoft Certified: Azure Data Scientist Associate (DP-100)  
-* Microsoft Certified: Azure AI Fundamentals (AI-900)  
-* UBS Certified Data Engineer Series (Data Engineer, Silver, and Gold)  
+* Microsoft Certified: Azure AI Fundamentals (AI-900)
+
 * UBS Certified Data Scientist  
 * UBS Certified Data Analyst  
-* IBM Certified Machine Learning  
+* UBS Certified Engineer – Gold  
+* UBS Certified Engineer – Silver  
+* UBS Certified Engineer – Base  
+
+* IBM – Exploratory Data Analysis for Machine Learning  
 
 ---
 
@@ -111,4 +120,8 @@ Currently pursuing a Ph.D. in Management (Business Analytics & AI/ML) at SRM Uni
 ## Connect
 
 * LinkedIn: [Leela Krishna.T](https://www.linkedin.com/in/leelakrishnas/)
-* Email: leelakrishnan@yahoo.com
+* Email: leelakrishnan@yahoo.com  
+
+---
+
+Focused on advancing Agentic AI adoption in enterprise environments, particularly within regulated industries.
