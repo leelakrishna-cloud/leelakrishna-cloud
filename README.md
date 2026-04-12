@@ -2,7 +2,7 @@
 
 > 💡 Building enterprise-grade Agentic AI systems focused on accuracy, validation, and explainability.
 
-Director | Data & AI/ML Leader | Generative AI & Agentic AI | RAG | LLMs | Digital Transformation
+Director | Data, AI & ML Leader | Agentic AI, Generative AI & RAG | LLM Systems | Enterprise AI Transformation
 
 ---
 
