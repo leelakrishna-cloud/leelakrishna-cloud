@@ -81,7 +81,21 @@ This ensures reliable, explainable, and enterprise-ready AI systems.
 
 ## Architecture (Agentic AI)
 
-User Query → Retrieval → Context Evaluation → Response Generation → Validation / Fallback → Confidence → Final Output
+```mermaid
+flowchart TD
+    A[User Query] --> B[Retriever - ChromaDB]
+    B --> C[Top K Relevant Chunks]
+    C --> D{Relevant context found?}
+
+    D -->|Yes| E[LLM - Generate from context]
+    E --> F[Validation Layer]
+    F --> G[Confidence Score]
+    G --> H[Document-Based Response]
+
+    D -->|No| I[LLM - General Knowledge]
+    I --> J[Fallback Confidence]
+    J --> K[General Knowledge Response]
+```
 
 > RAG retrieves information, Agentic AI ensures reliability and trust.
 
