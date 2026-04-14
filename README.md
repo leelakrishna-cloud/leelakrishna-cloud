@@ -117,7 +117,7 @@ flowchart TD
 
 ---
 
-## Currently Learning
+## Currently focused on advancing:
 
 * Agentic AI architectures  
 * Advanced LLM applications  
