@@ -95,7 +95,7 @@ This ensures reliable, explainable, and enterprise-ready AI systems.
 
 ## Architecture (Agentic AI)
 
-**RAG retrieves information. Agentic AI ensures reliability and trust.**
+**RAG retrieves information. Agentic AI ensures reliability, traceability, validation, and governance.**
 
 ```mermaid
 flowchart TD
