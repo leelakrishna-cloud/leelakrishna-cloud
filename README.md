@@ -99,3 +99,44 @@ flowchart TD
     D -->|No| I[LLM - General Knowledge]
     I --> J[Fallback Confidence]
     J --> K[General Knowledge Response]
+
+## Explanation
+
+RAG retrieves information, Agentic AI ensures reliability, traceability, validation, and governance.
+
+---
+
+## Certifications
+
+Microsoft Certified: Azure AI Engineer Associate (AI-102)
+Microsoft Certified: Azure Data Scientist Associate (DP-100)
+Microsoft Certified: Azure AI Fundamentals (AI-900)
+UBS Certified Data Scientist
+UBS Certified Data Analyst
+UBS Certified Engineer – Gold
+UBS Certified Engineer – Silver
+UBS Certified Engineer – Base
+IBM – Exploratory Data Analysis for Machine Learning
+
+---
+
+## Currently focused on advancing:
+
+Agentic AI architectures
+Advanced LLM applications
+Enterprise AI system design and governance
+
+---
+
+## Education
+
+Currently pursuing a Ph.D. in Management (Business Analytics & AI/ML) at SRM University, India (expected 2029),
+focused on applying AI and machine learning to real-world business and banking challenges.
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/leelakrishnas/
+Email: leelakrishnan@yahoo.com
+
