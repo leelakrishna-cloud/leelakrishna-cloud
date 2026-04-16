@@ -38,7 +38,7 @@ Director | Data, AI & ML Leader | Agentic AI & RAG | LLM Systems | Enterprise AI
 - UBS Certified Engineer – Gold
 - UBS Certified Engineer – Silver
 - UBS Certified Engineer – Base
-- IBM – Exploratory Data Analysis for Machine Learning
+- IBM Certified Machine Learning
 
 ---
 
