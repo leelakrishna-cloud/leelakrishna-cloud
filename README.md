@@ -1,30 +1,30 @@
 # Leela Krishna.T
 
-> 💡 Building enterprise-grade Agentic AI systems focused on accuracy, validation, and explainability.
+> 💡 Building enterprise-grade Agentic AI systems for regulated environments, focused on reliability, traceability, validation, and governance.
 
-Director | Data, AI & ML Leader | Agentic AI & RAG | LLM Systems | Enterprise AI Transformation
+Director | Data & AI Leader | Agentic AI & RAG | LLM Systems | Enterprise AI Transformation
 
 ---
 
 ## About Me
 
-* Director-level technology leader with 20+ years of experience in Data, AI, and Banking  
-* Expertise in regulatory data platforms, compliance, and data engineering  
-* Currently focused on Agentic AI and RAG-based enterprise solutions  
-* Passionate about building scalable, explainable, and enterprise-grade AI systems  
-* Focused on building reliable and explainable AI systems for enterprise and regulatory environments  
+* Director-level technology leader with 20+ years of experience across Data, AI, and Banking  
+* Deep expertise in regulatory data platforms, compliance, and data engineering  
+* Currently focused on designing Agentic AI and RAG-based enterprise solutions  
+* Specialized in building reliable, explainable, and traceable AI systems for regulatory and compliance-driven environments  
+* Passionate about bridging AI innovation with real-world enterprise impact  
 
 ---
 
 ## Core Skills
 
-* Generative AI (RAG, LLMs, Prompt Engineering)
-* Agentic AI & AI System Design
-* Machine Learning and NLP
-* Vector Databases (ChromaDB)
-* Data Engineering (ETL, Big Data, Data Platforms)
-* Python, SQL, Spark
-* Azure AI and Cloud Technologies
+* Generative AI (RAG, LLMs, Prompt Engineering)  
+* Agentic AI & AI System Design  
+* Machine Learning & NLP  
+* Vector Databases (ChromaDB)  
+* Data Engineering (ETL, Big Data, Data Platforms)  
+* Python, SQL, Spark  
+* Azure AI & Cloud Technologies  
 
 ---
 
@@ -35,16 +35,19 @@ Director | Data, AI & ML Leader | Agentic AI & RAG | LLM Systems | Enterprise AI
 An enterprise-grade AI assistant designed for compliance use cases using Retrieval-Augmented Generation (RAG), validation, and confidence scoring.
 
 **Key Highlights:**
-- Built an end-to-end Agentic AI pipeline (Retrieval → Context Evaluation → Generation → Validation → Fallback → Confidence)
-- Implemented document-grounded response generation using ChromaDB
-- Designed validation layer to ensure response correctness
-- Added confidence scoring to indicate strength of supporting evidence
-- Implemented controlled fallback to general knowledge for out-of-scope queries
+- Designed an end-to-end Agentic AI pipeline (Retrieval → Context Evaluation → Generation → Validation → Fallback → Confidence)  
+- Implemented document-grounded response generation using ChromaDB  
+- Built validation layer to reduce hallucination risk and ensure response accuracy  
+- Enabled traceability through source attribution and chunk-level referencing  
+- Added confidence scoring to indicate strength of supporting evidence  
+- Implemented controlled fallback for out-of-scope queries  
 - Developed an interactive Streamlit-based UI  
 
 **Impact:**
-- Designed to reduce hallucination risk and improve trust in AI-driven compliance workflows  
-- Ensures transparency by distinguishing between document-grounded and general knowledge responses  
+- Improves reliability and traceability of AI-driven compliance workflows  
+- Enhances decision support in regulatory and audit scenarios  
+- Reduces risk of incorrect or non-compliant responses  
+- Supports audit-ready and explainable AI outcomes  
 
 **Tech Stack:** Python, Streamlit, LangChain, ChromaDB, OpenAI  
 
@@ -70,12 +73,13 @@ A document-based chatbot for PDF question answering using RAG architecture.
 
 Unlike traditional chatbots, my solutions focus on:
 
-- Document grounding (RAG)  
-- Validation of responses  
+- Document-grounded responses (RAG)  
+- Traceability through source attribution  
+- Validation of outputs  
 - Confidence scoring  
 - Controlled fallback mechanisms  
 
-This ensures reliable, explainable, and enterprise-ready AI systems.
+This enables reliable, explainable, traceable, and governance-driven AI systems for regulatory and compliance-intensive environments.
 
 ---
 
@@ -95,48 +99,3 @@ flowchart TD
     D -->|No| I[LLM - General Knowledge]
     I --> J[Fallback Confidence]
     J --> K[General Knowledge Response]
-```
-
-> RAG retrieves information, Agentic AI ensures reliability and trust.
-
----
-
-## Certifications
-
-* Microsoft Certified: Azure AI Engineer Associate (AI-102)  
-* Microsoft Certified: Azure Data Scientist Associate (DP-100)  
-* Microsoft Certified: Azure AI Fundamentals (AI-900)
-
-* UBS Certified Data Scientist  
-* UBS Certified Data Analyst  
-* UBS Certified Engineer – Gold  
-* UBS Certified Engineer – Silver  
-* UBS Certified Engineer – Base  
-
-* IBM – Exploratory Data Analysis for Machine Learning  
-
----
-
-## Currently focused on advancing:
-
-* Agentic AI architectures  
-* Advanced LLM applications  
-* Enterprise AI system design and governance  
-
----
-
-## Education
-
-Currently pursuing a **Ph.D**. in Management (**Business Analytics & AI/ML**) at SRM University, India (expected 2029), 
-focused on applying AI and machine learning to real-world business and banking challenges.
-
----
-
-## Connect
-
-* LinkedIn: [Leela Krishna.T](https://www.linkedin.com/in/leelakrishnas/)
-* Email: leelakrishnan@yahoo.com  
-
----
-
-Focused on advancing Agentic AI adoption in enterprise environments, particularly within regulated industries.
