@@ -82,14 +82,15 @@ A document-based chatbot for PDF question answering using RAG architecture.
 
 ## Key Differentiator
 
-Unlike traditional chatbots, my solutions focus on:
+Unlike traditional RAG-based systems (Retrieve → Generate → Return), my solutions incorporate:
 
-- Document grounding (RAG)
-- Validation of responses
-- Confidence scoring
-- Controlled fallback mechanisms
+- Document-grounded response generation  
+- Validation and support classification  
+- Confidence scoring  
+- Controlled AI-assisted fallback  
+- Decision logic for response strategy  
 
-This ensures reliable, explainable, and enterprise-ready AI systems.
+This enables reliable, explainable, and governed AI systems suitable for enterprise and compliance environments.
 
 ---
 
