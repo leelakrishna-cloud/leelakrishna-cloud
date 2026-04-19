@@ -66,15 +66,15 @@ An enterprise-grade Agentic AI solution designed for compliance use cases, deliv
 
 ---
 
-### 2. RAG-Based PDF Chatbot (GenAI)
+### 2. RAG-Based PDF Chatbot
 
-A document-based chatbot for PDF question answering using RAG architecture.
+A document-based chatbot for PDF question answering using Retrieval-Augmented Generation (RAG).
 
 **Key Highlights:**
-- Built an end-to-end RAG pipeline
-- Implemented document ingestion, chunking, embeddings, and vector search
-- Used ChromaDB and LlamaCpp (BioMistral) for response generation
-- Developed a Gradio-based chatbot UI
+- Built an end-to-end RAG pipeline  
+- Implemented document ingestion, chunking, embeddings, and vector search  
+- Used ChromaDB and LLMs (LlamaCpp - BioMistral) for response generation  
+- Developed a chatbot UI  
 
 👉 GitHub: https://github.com/leelakrishna-cloud/rag-pdf-chatbot
 
@@ -116,11 +116,11 @@ flowchart TD
 
 ---
 
-## Currently focused on advancing:
+## Currently Focused On
 
-- Agentic AI architectures
-- Advanced LLM applications
-- Enterprise AI system design and governance
+- Advancing Agentic AI architectures  
+- Building advanced LLM applications  
+- Designing enterprise-grade AI systems with governance and control  
 
 ---
 
