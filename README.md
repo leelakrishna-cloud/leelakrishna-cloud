@@ -100,18 +100,19 @@ This enables reliable, explainable, and governed AI systems suitable for enterpr
 
 ```mermaid
 flowchart TD
-    A[User Query] --> B[Retriever - ChromaDB]
-    B --> C[Top K Relevant Chunks]
-    C --> D{Relevant context found?}
 
-    D -->|Yes| E[LLM - Generate from context]
-    E --> F[Validation Layer]
-    F --> G[Confidence Score]
-    G --> H[Document-Based Response]
+A[User Query] --> B[Safe Query Handling]
+B --> C[Retrieval Layer<br/>FAISS + Embeddings]
+C --> D[Document-Grounded Response Generator]
+D --> E{Validation<br/>Support Classification}
 
-    D -->|No| I[LLM - General Knowledge]
-    I --> J[Fallback Confidence]
-    J --> K[General Knowledge Response]
+E -->|SUPPORTED| F[Document-Based Response]
+E -->|PARTIAL| G[Blended Response<br/>Document + AI]
+E -->|UNSUPPORTED| H[AI-Assisted Response]
+
+F --> I[Confidence Score + Source Traceability]
+G --> I
+H --> I
 ```
 
 ---
