@@ -8,23 +8,22 @@ Director | Data, AI & ML Leader | Agentic AI & RAG | LLM Systems | Enterprise AI
 
 ## About Me
 
-- Director-level technology leader with 20+ years of experience in Data, AI, and Banking
-- Expertise in regulatory data platforms, compliance, and data engineering
-- Currently focused on Agentic AI and RAG-based enterprise solutions
-- Passionate about building scalable, explainable, and enterprise-grade AI systems
-- Focused on building reliable and explainable AI systems for enterprise and regulatory environments
+- Director-level technology leader with 20+ years of experience in Data, AI, and Banking  
+- Expertise in regulatory data platforms, compliance, and data engineering  
+- Currently focused on building Agentic AI solutions for enterprise and compliance environments, with an emphasis on Retrieval-Augmented Generation (RAG), validation, and governed AI behavior  
+- Focused on building reliable, explainable, and governed AI systems for regulated environments    
 
 ---
 
 ## Core Skills
 
-- Generative AI (RAG, LLMs, Prompt Engineering)
-- Agentic AI & AI System Design
-- Machine Learning and NLP
-- Vector Databases (ChromaDB)
-- Data Engineering (ETL, Big Data, Data Platforms)
-- Python, SQL, Spark
-- Azure AI and Cloud Technologies
+- Generative AI (RAG, LLMs, Prompt Engineering)  
+- Agentic AI & AI System Design  
+- Machine Learning & NLP  
+- Vector Databases (FAISS, ChromaDB)  
+- Data Engineering (ETL, Big Data, Data Platforms)  
+- Python, SQL, Spark  
+- Azure AI & Cloud Technologies  
 
 ---
 
@@ -44,25 +43,26 @@ Director | Data, AI & ML Leader | Agentic AI & RAG | LLM Systems | Enterprise AI
 
 ## Featured Projects
 
-### 1. Agentic AI Compliance Assistant (Latest)
+### 1. Agentic AI Compliance Assistant (v2)
 
-An enterprise-grade AI assistant designed for compliance use cases using Retrieval-Augmented Generation (RAG), validation, and confidence scoring.
+An enterprise-grade Agentic AI solution designed for compliance use cases, delivering trusted, explainable, and governed regulatory intelligence.
 
 **Key Highlights:**
-- Built an end-to-end Agentic AI pipeline (Retrieval → Context Evaluation → Generation → Validation → Fallback → Confidence)
-- Implemented document-grounded response generation using ChromaDB
-- Designed a validation layer to ensure response correctness
-- Added confidence scoring to indicate strength of supporting evidence
-- Implemented controlled fallback to general knowledge for out-of-scope queries
-- Developed an interactive Streamlit-based UI
+- Built an end-to-end Agentic AI architecture (Retrieve → Generate → Validate → Decide → Respond)  
+- Implemented document-grounded response generation using FAISS-based vector search  
+- Designed a validation layer for response support classification (SUPPORTED / PARTIAL / UNSUPPORTED)  
+- Added confidence scoring to indicate strength of supporting evidence  
+- Implemented controlled AI-assisted fallback for unsupported queries  
+- Developed an interactive Streamlit-based UI  
 
 **Impact:**
-- Designed to reduce hallucination risk and improve trust in AI-driven compliance workflows
-- Ensures transparency by distinguishing between document-grounded and general knowledge responses
+- Reduces hallucination risk in AI-driven compliance workflows  
+- Ensures transparency through validation and source traceability  
+- Enables reliable and governed AI responses for regulatory environments  
 
-**Tech Stack:** Python, Streamlit, LangChain, ChromaDB, OpenAI
+**Tech Stack:** Python, Streamlit, LangChain, FAISS, OpenAI  
 
-👉 GitHub: https://github.com/leelakrishna-cloud/agentic-ai-compliance-assistant
+👉 GitHub: https://github.com/leelakrishna-cloud/agentic-ai-compliance-assistant-v2
 
 ---
 
